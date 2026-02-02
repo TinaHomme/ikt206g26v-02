@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLibrary", "StringLibrary.csproj", "{524AF89D-C13B-4282-8824-7D1C417FECC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLibraryTest", "StringLibraryTest\StringLibraryTest.csproj", "{1118A672-4B4F-42DB-B855-D04265054760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{524AF89D-C13B-4282-8824-7D1C417FECC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524AF89D-C13B-4282-8824-7D1C417FECC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524AF89D-C13B-4282-8824-7D1C417FECC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524AF89D-C13B-4282-8824-7D1C417FECC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1118A672-4B4F-42DB-B855-D04265054760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1118A672-4B4F-42DB-B855-D04265054760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1118A672-4B4F-42DB-B855-D04265054760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1118A672-4B4F-42DB-B855-D04265054760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
