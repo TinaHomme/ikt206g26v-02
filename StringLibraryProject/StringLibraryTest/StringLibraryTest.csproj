@@ -9,6 +9,8 @@
 
     <ItemGroup>
         <PackageReference Include="MSTest" Version="4.0.1"/>
+        <PackageReference Include="MSTest.TestAdapter" Version="4.1.0" />
+        <PackageReference Include="MSTest.TestFramework" Version="4.1.0" />
     </ItemGroup>
 
     <ItemGroup>
@@ -16,7 +18,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\StringLibrary.csproj" />
+      <ProjectReference Include="..\StringLibraryClassLibrary\StringLibraryClassLibrary.csproj" />
     </ItemGroup>
 
 </Project>

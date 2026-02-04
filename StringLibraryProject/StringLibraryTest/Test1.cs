@@ -1,4 +1,4 @@
-﻿using UtilityLibraries;
+﻿using StringLibraryClassLibrary;
 
 namespace StringLibraryTest
 {
